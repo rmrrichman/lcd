@@ -1,0 +1,4 @@
+FRG = "countries/Federal Republic of Germany.txt"
+RCZ = "countries/Rhineland Cooperative Zone.txt"
+TFE = "countries/The French Empire.txt"
+UFI = "countries/United Federation of Iberia.txt"
