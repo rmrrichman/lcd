@@ -1,0 +1,16 @@
+set_research_slots = 5
+set_stability = 0.7
+set_war_support = 0.6
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 60
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 70
+	communism = 30
+	fascism = 0
+	neutrality = 0
+}
+add_manpower = 500000
