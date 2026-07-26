@@ -1,3 +1,2 @@
-The entire history folder is inside of a zip for my sanity, but it does contain history/countries and history/states
-
+history/states is in a zip.folder because github bitches like a kid without the iPad when u upload more than 100 files at once
 Made completely with ANKA editor
