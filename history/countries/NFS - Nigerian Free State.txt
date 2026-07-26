@@ -13,3 +13,4 @@ set_popularities = {
 	fascism = 30
 	neutrality = 10
 }
+capital = 558

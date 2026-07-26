@@ -8,5 +8,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	democratic = 75
+	communism = 0
+	fascism = 25
+	neutrality = 0
 }
+capital = 546

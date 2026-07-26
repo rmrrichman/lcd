@@ -14,3 +14,4 @@ set_popularities = {
 	neutrality = 20
 }
 add_manpower = 700000
+capital = 64
